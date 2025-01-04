@@ -2,10 +2,6 @@
 
 This repository contains the demo website for WE Design, a web design agency specializing in crafting modern and effective online experiences.  This project showcases our expertise in utilizing cutting-edge technologies to deliver high-quality websites.
 
-## Live Demo
-
-[Insert Live Demo Link Here - If Available] (If you have deployed this website, include a link to the live version here)
-
 ## Features
 
 * **Modern and Responsive Design:** Built with a mobile-first approach, ensuring a seamless experience across all devices.
