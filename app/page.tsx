@@ -51,7 +51,6 @@ export default function Home() {
       <TeamSection />
       <CommunitySection />
       <PricingSection />
-      <ContactSection />
       <FAQSection />
       <FooterSection />
     </>
